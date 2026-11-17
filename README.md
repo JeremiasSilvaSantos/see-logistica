@@ -39,4 +39,5 @@ Protótipo de interface acadêmico.
 
 Autoria
 
-Projeto desenvolvido no contexto acadêmico que foi desenvolvido por seguintes alunos: Jeremias Silva Santos e Felipe.s
+Projeto desenvolvido no contexto acadêmico que foi desenvolvido por seguintes alunos: Jeremias Silva Santos e Felipe.
+
